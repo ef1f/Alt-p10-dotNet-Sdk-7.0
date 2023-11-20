@@ -1,2 +1,2 @@
-# alt-dotNet-SDK-7
-.Net 7 SDK image based on Alt Linux
+# Alt-p10-dotNet-Sdk-7.0
+dotNet 7 SDK image based on Alt p10 Linux
